@@ -1,0 +1,9 @@
+1 )
+    From worker2 thread 16 x value is 7
+    From worker1 thread 15 x value is 3
+    From main x value is 7
+
+2)
+    From worker1 thread 15 x value is 3
+    From worker2 thread 16 x value is 7
+    From main x value is 7
